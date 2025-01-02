@@ -1,0 +1,22 @@
+/* Don't change the existing CSS. */
+
+#outer-box {
+  background-color:  crimson;
+
+}
+.box {
+  background-color: lightseagreen;
+  padding: 10px;
+}
+.inner-box {
+  background-color: firebrick;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text {
+  color: whitesmoke;
+}

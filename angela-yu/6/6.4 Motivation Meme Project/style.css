@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body{
+    background-color: rgb(19, 24, 37);
+}
+
+.poster{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+}
+.poster img{
+    border: 8px solid #4c5d72;
+    border-radius: 2rem;
+    width: 100%;
+}
+.poster h1{
+    color: #fed9b7;
+    font-family: "Libre Baskerville", sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+.poster p{
+    color: floralwhite;
+    font-family: "Libre Baskerville", sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+#p2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
