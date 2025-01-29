@@ -1,7 +1,0 @@
-all theory of good design 
-some fundamentals of good design
-
-color theory
-typography
-ui
-ux
