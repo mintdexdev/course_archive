@@ -1,0 +1,22 @@
+12th section
+theory and some fundamentals of good design
+-color theory
+-typography
+-ui
+-ux
+
+13th section
+Capstone project 2
+
+14th section - beginner JS
+basics of JavaScript.
+variable
+string - concatination, slicing
+increment decrement ecpression
+functions - parameters and arguments
+
+15th  section -intermediate JS
+math.random()
+control statement
+loops
+
