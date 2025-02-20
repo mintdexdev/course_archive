@@ -1,14 +1,14 @@
-12th section
+12th section - web design school - create website that people love
 theory and some fundamentals of good design
 -color theory
 -typography
 -ui
 -ux
 
-13th section
+13th section - personal site
 Capstone project 2
 
-14th section - beginner JS
+14th section - Introduction to js Es6
 basics of JavaScript.
 variable
 string - concatination, slicing
