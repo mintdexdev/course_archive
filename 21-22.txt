@@ -1,0 +1,7 @@
+21th section - the unix command line
+about git , bash, github
+install git
+and do operations
+
+22th section - backend web development
+learned about backend
