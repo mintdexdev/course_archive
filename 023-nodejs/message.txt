@@ -1,0 +1,3 @@
+Hello world, Node js first code
+
+change for read file command
