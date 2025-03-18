@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekday with advice</title>
+</head>
+
+<body>
+    <p>first video- this is <%= dayType %>, please <%= advice %></p>
+
+    <h2>second video name :  <%= data.title %> </h2>
+    <p> Current Second: <%= data.seconds %> </p>
+    <% if (data.seconds % 2 === 0) { %>
+        <ul>
+            <% for(let i=0; i <data.fruits.length; i++) { %>
+                <li> <%= data.fruits[i] %> </li>
+            <% } %>
+        </ul>
+    <% } else { %>
+        <p>no items to display</p>
+    <% } %>
+    <em>
+        <% data.htmlContent %>
+    </em>
+
+    <%- include("footer.ejs") %>
+
+    <p>third video - passing data back and forth to client and server</p>
+    <h2>Enter your name</h2>
+    <form action="/submit" method="POST">
+        <input type="text" name="fName" placeholder="first name">
+        <input type="text" name="lName" placeholder="last name">
+        <input type="submit" value="sub">
+    </form>
+</body>
+
+</html>
