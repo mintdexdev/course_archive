@@ -1,0 +1,7 @@
+31-
+Databases
+introduction to Databases
+sql vs no sql
+
+section 32
+basic sql commands
