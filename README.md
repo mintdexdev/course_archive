@@ -1,3 +1,1 @@
-# Web Dev learned by using "Paid Course"
-
-## Angela Yu
+## Web Dev learned from Angela Yu (Udemy)
